@@ -1652,6 +1652,7 @@ export const ru = {
       close: "Свернуть ассистента",
       history: "История чатов",
       newThread: "Новый чат",
+      currentInfographic: "Эта инфографика",
       historyRecent: "Последние 30 дней",
       historyOlder: "Ранее",
       historySearch: "Поиск чатов",
